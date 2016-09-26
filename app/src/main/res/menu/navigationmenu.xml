@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".view.activity.MainActivity">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_item_main"
+            android:icon="@mipmap/ic_stars_black_24dp"
+            android:title="主页" />
+        <item
+            android:id="@+id/navigation_item_tl"
+            android:icon="@mipmap/ic_brightness_7_black_24dp"
+            android:title="MD输入框" />
+        <item
+            android:id="@+id/navigation_item_snackbar"
+            android:icon="@mipmap/ic_flare_black_24dp"
+            android:title="Snackbar" />
+
+    </group>
+</menu>

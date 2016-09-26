@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Material Design Use</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="press_again_exit_app">再按一次退出程序</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="transition_book_img">transition_book_img</string>
+</resources>

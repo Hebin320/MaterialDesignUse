@@ -4,11 +4,14 @@
     android:layout_height="match_parent"
     tools:context="com.hebin.mduse.ui.fragment.DetailFragment">
 
-    <TextView
-        android:id="@+id/tvInfo"
+    <android.support.v4.widget.NestedScrollView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:gravity="center"
-        />
+        android:layout_height="match_parent">
 
+        <TextView
+            android:id="@+id/tvInfo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center" />
+    </android.support.v4.widget.NestedScrollView>
 </FrameLayout>

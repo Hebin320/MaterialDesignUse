@@ -8,7 +8,6 @@ This a simple  Material Design  project , for making me to master many skills ab
 
 
 ## Knowledge ##
-----------
  - [AppBarLayout](https://developer.android.com/reference/android/support/design/widget/AppBarLayout.html)
  - [ToolBar](https://developer.android.com/reference/android/support/v7/widget/Toolbar.html)
  - [DrawerLayout](https://developer.android.com/reference/android/support/v4/widget/DrawerLayout.html)
@@ -25,18 +24,12 @@ This a simple  Material Design  project , for making me to master many skills ab
 
 ## Detail ##
 
-
-----------
-
 The much detail introduction is in my blog,its address is
 
 [http://blog.csdn.net/hebin320320/article/details/51461611](http://blog.csdn.net/hebin320320/article/details/51461611)
 
 
 ## License ##
-
-
-----------
 
 ```
 Copyright 2015-2019 dinus
